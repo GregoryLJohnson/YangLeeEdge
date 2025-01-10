@@ -1,5 +1,9 @@
+Fig 5 of       (1)       |  Fig 6 of (1)
+:-------------------------:|:-------------------------:
+![zeta.pdf](https://github.com/user-attachments/files/18380064/zeta.pdf) |  ![yleddep.pdf](https://github.com/user-attachments/files/18380058/yleddep.pdf)
+
 __References:__
-- Results contained in [Universal location of Yang-Lee edge singularity in classic O⁡(𝑁) universality classes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.116013).
+- Results contained in (1) [Universal location of Yang-Lee edge singularity in classic O⁡(𝑁) universality classes](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.116013).
 - More details are contained in my [thesis](https://repository.lib.ncsu.edu/items/ab3dd7a0-9955-4f1b-8be9-adb25e4cfcfd).
 - See also [Universal Location of the Yang-Lee Edge Singularity in O⁡(𝑁) Theories](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.191602) for first computation which uses a different method.
 
